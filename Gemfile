@@ -9,3 +9,4 @@ gem 'redsnow'
 
 # add_development_dependency
 gem 'test-unit'
+gem 'pry-byebug'
